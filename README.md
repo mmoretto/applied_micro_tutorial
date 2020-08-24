@@ -1,4 +1,4 @@
-# applied_micro_tutorial
+# Python for Economists: a Structural Estimation Exercise
 An applied-micro tutorial on Jupiter notebook showing how to perform a structural estimation using finite dependence and bootstrapping
 
 In this tutorial, we present a simple structural estimation exercise using Python and Jupyter notebook.
