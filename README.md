@@ -1,4 +1,4 @@
-# Python for Economists: a Structural Estimation Exercise
+# Python for Economists: a Structural Estimation Tutorial
 
 In this tutorial, we present a simple structural estimation exercise using Python and Jupyter notebook.
   * In the first part of the tutorial, we provide a general discussion of the pros and cons of using Python compared to other popular programming languages
